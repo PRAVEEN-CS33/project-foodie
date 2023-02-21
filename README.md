@@ -1,1 +1,2 @@
-# project foodie
+# Savvy_Coderz
+Welcome to our app FOODIE!
